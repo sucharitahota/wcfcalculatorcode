@@ -12,14 +12,22 @@ namespace CalculatorTest
         {
             Console.WriteLine("Please enter the operation../n 1 for Sum, 2 for Difference, 3 for Product , 4 for Division");
             String operation = Console.ReadLine();
-            Console.WriteLine("Please enter the first no.");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please enter the second no.");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            String result = DoOperationSericeCall(num1, num2, operation);
-            Console.WriteLine("Result is:" + result);
-            Console.ReadLine();
 
+            string[] arr = new string[] { "1", "2", "3", "4" };
+            if (!arr.Contains(operation))
+                Console.WriteLine("Wrong input!!!!!    Please enter the operation../n 1 for Sum, 2 for Difference, 3 for Product , 4 for Division");
+            else
+            {
+                operation = Console.ReadLine();
+                Console.WriteLine("Please enter the first no.");
+                int num1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the second no.");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+                String result = DoOperationSericeCall(num1, num2, operation);
+                Console.WriteLine("Result is:" + result);
+
+            }
+            Console.ReadLine();
         }
 
         public static string DoOperationSericeCall(int num1, int num2, string operation)
