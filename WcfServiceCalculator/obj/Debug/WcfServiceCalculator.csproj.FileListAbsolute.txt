@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\bin\WcfServiceCalculator.dll.config
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\bin\WcfServiceCalculator.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\bin\WcfServiceCalculator.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\WcfServiceCalculator\obj\Debug\WcfServiceCalculator.pdb

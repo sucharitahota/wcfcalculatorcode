@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\bin\Debug\CalculatorTest.exe
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\obj\Debug\CalculatorTest.exe
+c:\users\user\documents\visual studio 2013\Projects\WcfServiceCalculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
